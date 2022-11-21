@@ -1,0 +1,73 @@
+body {
+    background: #d3d3d3;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.post-wrapper {
+    background: white;
+    width: 500px;
+    margin: 50px auto;
+    text-align: left;
+    max-height: 600px;
+}
+.header {
+    height: 60px;
+    border: 1px solid lightgray;
+}
+.avatar {
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+    font-size: 25px;
+}
+.header h3 {
+    float: left;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.header h4 {
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 39px;
+    color: grey;
+    margin-left: 45px;
+}
+.dotted-menu {
+    float: right;
+    padding-right: 15px;
+    margin-top: 20px;
+}
+.icons-left {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.fa-bookmark {
+    bottom: 25px;
+    position: relative;
+    right: 10px;
+    float: right;
+    font-size: 20px;
+}
+span {
+    font-weight: 600;
+}
+.likes {
+    margin-left: 15px;
+}
+.likes span {
+    font-weight: 600;
+}
+.description p {
+    padding: 15px 15px 15px 20px;
+    font-size: 15px;
+    margin: 0;
+    margin-left: -5px;
+}
+
+.image1 {
+    padding-bottom: 3px;
+}
